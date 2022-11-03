@@ -1,0 +1,14 @@
+docnum05497jj121 -- Invalid document length
+contract8527413 -- Valid document
+doc-contr!@#$%^&*(+_)(*) -- Invalid document start name
+contract1598741 -- Valid document
+docnum2589hfh56 -- Valid document
+docnum95172095207452096320520 -- Invalid document length
+docnum361963456 -- Valid document
+doc0248520 -- Invalid document start name
+con#$7283hbfn -- Invalid document start name
+docnum000963456 -- Valid document
+contract0258345678@#$%^ -- Invalid document symbol containment
+contr0147410 -- Invalid document start name
+docnum258963456 -- Valid document
+docnum054977121 -- Valid document

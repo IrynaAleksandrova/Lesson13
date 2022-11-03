@@ -9,9 +9,9 @@ public class ListDocument {
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.println("Enter path of files, enter 0 to stop");
 
-            //   src/resources/Files1.txt
-            //   src/resources/Files2.txt
-            //   src/resources/Files3.txt
+            //   resources/Files1
+            //   resources/Files2
+            //   resources/Files3
 
             List<String> listDoc = new ArrayList<>();
             while (scanner.hasNextLine()) {
@@ -23,10 +23,6 @@ public class ListDocument {
             }
             return listDoc;
         }
-    }
-
-    public static List<String> getInput() {
-        return input();
     }
 }
 
